@@ -1,0 +1,20 @@
+{
+  "name": "texas_cadet_beta",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Jstaud/texas_cadet_beta",
+  "authors": [
+    "Jstaud <james@jfstaudenterprises.com>"
+  ],
+  "description": "texas cadet website",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.4"
+  }
+}
